@@ -1,0 +1,3 @@
+http://clojuredocs.org
+http://clojure.org/
+http://en.wikipedia.org/
